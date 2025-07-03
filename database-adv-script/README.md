@@ -1,0 +1,3 @@
+-- INNER JOIN joins the two tables based on common column value 
+-- LEFT JOIN joins everything from the left and only the rows having value from the right 
+-- FULL OUTER JOIN union of both the left and right join 
